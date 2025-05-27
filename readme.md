@@ -70,10 +70,6 @@ Spellaris is ideal for:
 
 Whether you're working on emails, essays, reports, blog posts, or social media captions, Spellaris helps you write with greater confidence and impact.
 
-## Support
-
-For questions or support, please contact: arpanpramanikk@gmail.com
-
 ## Privacy Policy
 
 Please refer to the included privacy policy document for detailed information about data handling and privacy practices.
